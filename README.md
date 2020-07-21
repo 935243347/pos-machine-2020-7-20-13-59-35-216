@@ -70,3 +70,30 @@ Suppose that our database is as follows:
 2. Please declare all the methods according to your diagram.
 3. Please implement the function according to the context diagram
 4. Please repeat step 3 until all functions are implemented.
+
+# Tasking
+## countItemOfCartDetails
+- 输入：barcodes: String
+- 输出：cartDetails: array
+## findItemNameByBarcode
+- 输入：cartDetails: array
+- 输出：cartDetails: array
+## calculateItemTotalPrice
+- 输入：cartDetails: array
+- 输出：cartDetails: array
+## calculateCartTotalPrice
+- 输入：cartDetails: array
+- 输出：cartDetails: array
+## formatCartDetails
+- 输入：cartDetails: array,totalPrice: int
+- 输出：receipt: String
+## output
+- 输入：receipt: String
+- 输出：打印到控制台上
+
+| |printReceipt
+--|--
+Plan| 30min
+Do| 100min
+Check| 忘记一些js知识点导致难以进行，比如数组的多种遍历方式。vscode第一次使用不大会用
+Action| 复习了如何遍历数组，如何去重等知识。学习vscode的一些操作慢慢熟悉这个软件
