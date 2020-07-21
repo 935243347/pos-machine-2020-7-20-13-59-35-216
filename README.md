@@ -91,9 +91,11 @@ Suppose that our database is as follows:
 - 输入：receipt: String
 - 输出：打印到控制台上
 
+## Contextmap
+![possystem-Contextmap.png](possystem-Contextmap.png)
 | |printReceipt
 --|--
 Plan| 30min
-Do| 100min
+Do| 120min
 Check| 忘记一些js知识点导致难以进行，比如数组的多种遍历方式。vscode第一次使用不大会用
 Action| 复习了如何遍历数组，如何去重等知识。学习vscode的一些操作慢慢熟悉这个软件
